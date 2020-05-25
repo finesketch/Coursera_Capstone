@@ -1,0 +1,30 @@
+Week 1 Samples:
+- https://github.com/AragondaJyosna/Applied-Data-Science-Capstone/blob/master/The%20Battle%20of%20Neighborhoods%20-%20Week%201%20-%20Part-1.ipynb
+
+Problem Statement:
+- https://github.com/Shekhar-rv/Coursera_Capstone/blob/master/Capstone%20Project%20-%20The%20Battle%20of%20Neighborhoods%20(Week%201)/Capstone%20Project%20-%20The%20Battle%20of%20Neighborhoods%20(Week%201)%20-%20Introduction.pdf
+Data:
+- https://github.com/Shekhar-rv/Coursera_Capstone/blob/master/Capstone%20Project%20-%20The%20Battle%20of%20Neighborhoods%20(Week%201)/Capstone%20Project%20-%20The%20Battle%20of%20Neighborhoods%20(Week%201)%20-%20Data.pdf
+
+Week 5, final report not bad:
+https://github.com/davidcolton/Coursera_Capstone
+
+OK samples:
+https://colab.research.google.com/github/RamanujaSVL/Coursera_Capstone/blob/master/Capstone_Safest_Neighborhood_in_Vancouver.ipynb#scrollTo=8Iwh_GOWTZmA
+
+https://jp-tok.dataplatform.cloud.ibm.com/analytics/notebooks/v2/8a834e45-b7cd-41bb-97d2-a2a747fd0d2c/view?access_token=6bf2f41d17fb979d3b9d9ee28bab69541d04afbfd14e6e7d088b2c8f96106a7f
+
+Tokyo
+https://medium.com/@radialee/capstone-project-the-battle-of-neighborhoods-in-tokyo-restaurants-45a503e65ff
+https://github.com/Radia03/Coursera_Capstone
+
+Sharing Slides
+https://www.slideshare.net/EslamNader/the-battle-of-neighborhoods-data-science-project
+
+
+
+Sample blogpost.
+
+https://www.linkedin.com/pulse/housing-sales-prices-venues-data-analysis-ofistanbul-sercan-yıldız/
+
+
